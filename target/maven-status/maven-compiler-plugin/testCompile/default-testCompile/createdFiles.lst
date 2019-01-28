@@ -1,0 +1,10 @@
+org/jhipster/web/rest/UserResourceIntTest.class
+org/jhipster/service/UserServiceIntTest.class
+org/jhipster/web/rest/TestUtil.class
+org/jhipster/web/rest/TestUtil$ZonedDateTimeMatcher.class
+org/jhipster/web/rest/ProfileInfoResourceIntTest.class
+org/jhipster/security/jwt/TokenProviderTest.class
+org/jhipster/security/SecurityUtilsUnitTest.class
+org/jhipster/web/rest/LogsResourceIntTest.class
+org/jhipster/web/rest/AccountResourceIntTest.class
+org/jhipster/web/rest/AuditResourceIntTest.class

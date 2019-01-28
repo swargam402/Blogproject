@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../src/main/webapp/app/admin/configuration/configuration.route.ts"],"names":[],"mappings":";;AAEA,qEAAsE;AAEzD,QAAA,kBAAkB,GAAU;IACvC,IAAI,EAAE,mBAAmB;IACzB,SAAS,EAAE,mDAAyB;IACpC,IAAI,EAAE;QACJ,SAAS,EAAE,eAAe;KAC3B;CACF,CAAC","file":"configuration.route.js","sourceRoot":""}

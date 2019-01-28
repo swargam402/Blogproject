@@ -1,0 +1,9 @@
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/LogsResourceIntTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/ProfileInfoResourceIntTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/UserResourceIntTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/security/SecurityUtilsUnitTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/TestUtil.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/AuditResourceIntTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/security/jwt/TokenProviderTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/web/rest/AccountResourceIntTest.java
+/home/cyril/Projects/Blog/src/test/java/org/jhipster/service/UserServiceIntTest.java
